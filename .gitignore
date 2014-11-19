@@ -10,3 +10,20 @@ sites/*/private
 # Ignore IDE files
 .idea
 .idea/*
+
+
+# Ignore OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+
+# Ignore Vim generated files
+*.un~
+
+# Ignore Sass-related files
+.sass-cache
+.sass-cache/*
+sites/all/themes/*/css/*.css
+sites/all/themes/*/css/*.css.map
