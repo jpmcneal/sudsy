@@ -26,13 +26,14 @@ Sudsy is a Drupal 8 theme based on Susy, a Sass-based layout engine.
 
 ## Installation
   * Download the theme 
-  * Extract the theme folder so that it is at /themes/sudsy or /sites/<your_site>/themes/sudsy.
-  * Visit http://<your_site>/admin/appearance
+  * Extract the theme folder so that it is at /themes/sudsy or /sites/example/themes/sudsy.
+  * Visit http://example.com/admin/appearance
   * If you need more information please see https://www.drupal.org/node/2165673
 
 ## CSS file structure
-  The CSS file structure follows the recommended file organization structure for
-  Drupal 8. See https://www.drupal.org/node/1887922 for more information.
+  The CSS file structure follows a condensed version of the recommended file
+  organization structure for   Drupal 8. Please see 
+  https://www.drupal.org/node/1887922 for more information.
 
 ## Credits
   The following people have made significant contributions to Sudsy:
@@ -42,3 +43,7 @@ Sudsy is a Drupal 8 theme based on Susy, a Sass-based layout engine.
   The following organizations have made significant contributions to Sudsy:
 
   * Bowst
+  
+  Additional thanks:
+  
+  * Jeff Burnz for inspiring me with his work on AdaptiveTheme

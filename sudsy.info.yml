@@ -1,0 +1,17 @@
+# Theme Information
+name: Sudsy
+description: 'Sudsy is a Drupal 8 theme based on Susy, a Sass-based layout
+engine.'
+core: 8.x
+screenshot: screenshot.png
+libraries:
+  - sudsy/global-styling
+#  - sudsy/global-js
+# @todo: decide if it makes sense to use classy as basetheme
+# base theme: classy
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer: Footer

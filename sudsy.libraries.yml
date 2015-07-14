@@ -1,0 +1,8 @@
+global-styling:
+ version: 1.x
+ css:
+  theme:
+    css/base.css: { media: all }
+    css/layout.css: { media: all }
+    css/appearance.css: { media: all }
+    css/print.css: { media: print }
