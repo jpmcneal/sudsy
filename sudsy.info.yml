@@ -1,7 +1,6 @@
-# Theme Information
 name: Sudsy
-description: 'Sudsy is a Drupal 8 theme based on Susy, a Sass-based layout
-engine.'
+type: theme
+description: 'Sudsy is a Drupal 8 theme based on Susy, a Sass-based layout engine.'
 core: 8.x
 screenshot: screenshot.png
 libraries:
