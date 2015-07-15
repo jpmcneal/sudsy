@@ -7,7 +7,7 @@ libraries:
   - sudsy/global-styling
 #  - sudsy/global-js
 # @todo: decide if it makes sense to use classy as basetheme
-# base theme: classy
+base theme: classy
 regions:
   header: Header
   content: Content

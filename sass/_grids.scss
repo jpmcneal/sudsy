@@ -1,8 +1,15 @@
-// Require Susy
+// Requirements
+// ============
+
 @import "susy";
 
 // Set the grid system and gutters
 $susy: (
-  columns: 12,
-  gutters: 1/4,
+  columns: 4,
+  global-box-sizing: border-box,
+  debug: (image: show)
 );
+
+.wrap {
+  @include container(1140px);
+}
