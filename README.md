@@ -38,5 +38,4 @@ Sudsy is a Drupal 8 theme based on Susy, a Sass-based layout engine.
 ## Credits
   The following people and organizations have made significant contributions to Sudsy:
 
-  * Bowst for giving me time to work on this at my day job.
   * Jeff Burnz for inspiring me with his work on AdaptiveTheme
