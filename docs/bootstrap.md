@@ -1,4 +1,4 @@
-The Drush Bootstrap Process
+The JPDrush JPBootstrap JProcess
 ===========================
 When preparing to run a command, Drush works by "bootstrapping" the Drupal environment in very much the same way that is done during a normal page request from the web server, so most Drush commands run in the context of a fully-initialized website.
 
